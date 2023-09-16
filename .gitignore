@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Build artifacts
+dist/
+build/
+out/
+
+# macOS
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
